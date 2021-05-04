@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Defanders\TurrentSc.cs">
+    <Files>
+      <File FileName="Assets\Script\Enemy\EnemyMovment.cs" Line="47" Column="3" />
+      <File FileName="Assets\Script\Game\NudeSc.cs" Line="25" Column="20" />
+      <File FileName="Assets\Script\Game\BiuldManager.cs" Line="55" Column="3" />
+      <File FileName="Assets\Script\Defanders\TirbarSc.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Defanders\TurrentSc.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
